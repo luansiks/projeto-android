@@ -12,7 +12,7 @@
 
 body{font-family: var(--textfont);background-color: #f7f4cc;margin: 0px;}
 h1#principal{text-align: center;padding-top: 50px;color: white;margin-bottom: 30px;margin-top: 0px;}
-p#informacao{text-align: center;color: white;padding-bottom: 65px;margin: 0px;}
+p#informacao{text-align: center;color: white;padding-bottom: 45px;margin: 0px;}
 .link-principais:hover{color:rgb(29, 60, 21);background-color: rgb(74, 219, 132);border-radius: 5px;transition-duration: 0.8s;}
 .link-principais{color:rgb(112, 189, 107);text-decoration: none;padding-left: 10px;padding: 8px;}
 div{margin-left: 0px;;}
